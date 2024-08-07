@@ -1,2 +1,2 @@
-FROM gcr.io/lissy93/dashy:3.0.0
+FROM quay.io/lissy93/dashy:3.0.0
 MAINTAINER Q
