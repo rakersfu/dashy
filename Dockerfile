@@ -1,2 +1,2 @@
-FROM docker.io/lissy93/dashy:3.1.0
+FROM docker.io/lissy93/dashy:latest
 MAINTAINER Q
